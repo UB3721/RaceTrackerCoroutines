@@ -1,1 +1,1 @@
-![Imagen co-rutinas](./imgCoroutines.jpg)
+![Imagen co-rutinas](./imgCoroutines.png)
